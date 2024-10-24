@@ -162,5 +162,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-bm25s_index_animals/
+notebooks/bm25s_index_animals/
 playground/
