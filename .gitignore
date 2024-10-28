@@ -163,4 +163,6 @@ cython_debug/
 #.idea/
 
 notebooks/bm25s_index_animals/
+bm25s_index_animals/
 playground/
+dataretrieval.ipynb
