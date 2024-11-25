@@ -1,0 +1,29 @@
+1. The figure is a diagram.
+
+2. Not applicable as the figure is a diagram, not a chart or graph.
+
+3. **Detailed Description:**
+   - The diagram is divided into two main sections.
+   - The left section features a dark blue box with the text "~13% CET1 ratio".
+   - Below this box is an arrow pointing downwards to the text: "Aim to operate with a buffer of 200bps above MDA, as we build capital and absorb regulatory changes".
+   - The right section features a dark blue box with the text "50% Total payout ratio from 2025".
+   - Below this box is an arrow pointing downwards to the text: "Confirm 2025+ payout guidance and committed to outperform €8bn target".
+   - A footnote indicator "^1" appears next to the €8bn target.
+
+4. **Text present in the figure:**
+   - "~13% CET1 ratio"
+   - "50% Total payout ratio from 2025"
+   - "Aim to operate with a buffer of 200bps above MDA, as we build capital and absorb regulatory changes"
+   - "Confirm 2025+ payout guidance and committed to outperform €8bn target^1"
+
+5. **Context or Setting:**
+   - The figure seems to be part of a financial presentation or report, likely from a financial institution discussing its capital strategy and payout policies.
+
+6. **Overall Theme or Message:**
+   - The diagram conveys the institution's goals regarding its capital and payout strategy. 
+   - It aims to maintain a CET1 ratio of approximately 13% with a buffer above regulatory requirements and to achieve a 50% total payout ratio from 2025 onwards.
+   - The institution confirms its commitment to surpassing the €8 billion target from 2025 onwards.
+
+7. **Other Relevant Details or Observations:**
+   - The use of dark blue boxes and arrows helps in visually separating and guiding the reader through the different sections of the diagram.
+   - The footnote indicator "^1" suggests there might be additional information or clarification provided elsewhere in the document.

@@ -1,0 +1,64 @@
+1. **Type of Visual Representation**: The figure is a diagram, specifically an organizational chart.
+
+2. **Table Representation**:
+```markdown
+| Level 1           | Level 2                       | Level 3                            | Level 4                       |
+|-------------------|-------------------------------|------------------------------------|-------------------------------|
+| Board             | Executive Committee           | Shipping and Pricing Committee     |                               |
+|                   |                               | Assets & Liabilities Committee     |                               |
+|                   |                               | Model Risk Oversight Committee     |                               |
+|                   |                               | Credit Risk Committee              |                               |
+|                   |                               | Financial Crime Risk Committee     |                               |
+|                   |                               | Operational Risk Committee         |                               |
+|                   |                               | Conduct Risk Committee             |                               |
+|                   | Remuneration Committee        |                                    |                               |
+|                   | Nomination & Governance Committee |                                |                               |
+|                   | Audit Committee               |                                    |                               |
+|                   | Risk Committee                |                                    |                               |
+|                   | Enterprise Risk & Compliance Committee |                             |                               |
+|                   |                               | Collective Risk and Control Meetings|                              |
+```
+
+3. **Detailed Description**:
+   - The diagram is an organizational chart that outlines the structure of committees within an organization. 
+   - At the top level is the "Board."
+   - The second level includes five committees: "Executive Committee," "Remuneration Committee," "Nomination & Governance Committee," "Audit Committee," and "Risk Committee."
+   - The "Executive Committee" has several sub-committees: "Shipping and Pricing Committee" and "Assets & Liabilities Committee."
+   - The "Enterprise Risk & Compliance Committee" is linked to several risk-related committees: "Model Risk Oversight Committee," "Credit Risk Committee," "Financial Crime Risk Committee," "Operational Risk Committee," and "Conduct Risk Committee."
+   - There is a "Collective Risk and Control Meetings" entity that connects with the risk-related committees.
+
+4. **Text Present in the Figure**:
+   - Board
+   - Executive Committee
+   - Remuneration Committee
+   - Nomination & Governance Committee
+   - Audit Committee
+   - Risk Committee
+   - Enterprise Risk & Compliance Committee
+   - Shipping and Pricing Committee
+   - Assets & Liabilities Committee
+   - Model Risk Oversight Committee
+   - Credit Risk Committee
+   - Financial Crime Risk Committee
+   - Operational Risk Committee
+   - Conduct Risk Committee
+   - Collective Risk and Control Meetings
+   - Non Executive
+   - Business Executive
+   - Risk and Control
+   - Information flow
+   - Reporting line
+
+5. **Context or Setting**:
+   - The figure represents the hierarchical structure of committees within an organization, focusing on different aspects of governance, risk management, and compliance.
+
+6. **Overall Theme or Message**:
+   - The organizational chart conveys the structure and relationship between various governance, executive, and risk-related committees, demonstrating how they interconnect and report within the organization.
+
+7. **Other Relevant Details or Observations**:
+   - The color coding provides additional information:
+     - Dark teal color is used for Non-Executive committees.
+     - Light pink color is used for Business Executive committees.
+     - Bright pink color is used for Risk and Control committees.
+     - Dashed lines represent information flow.
+     - Solid lines represent reporting lines.

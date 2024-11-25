@@ -1,0 +1,51 @@
+1. The figure is an infographic.
+
+2. Since the figure is an infographic, not a chart or graph, there's no direct table representation for the data. However, I can provide a markdown table summarizing the key data points:
+
+| Category                          | FY2023       | FY2024       | Change    |
+|-----------------------------------|--------------|--------------|-----------|
+| Net operating income              | £214.5m      | £514.4m      | 2.4×      |
+| Gross lending                     | £0.76bn      | £1.4bn       | +84%      |
+| Common Equity Tier 1 capital (CET1)| 54%          | 55%          |           |
+| Average revenue per user (ARPU)   |              |              | +29% (personal customers), +24% (business customers) |
+| Net subscription income           | £19.5m       | £27.4m       | +41%      |
+| Total expenses                    | £330.9m      | £499.0m      | +51%      |
+| Treasury investments              | £2.7bn       | £3.6bn       | +33%      |
+
+3. **Detailed Description:**
+   - The infographic is divided into several colored sections, each displaying different financial metrics.
+   - Key metrics include net operating income, gross lending, Common Equity Tier 1 capital (CET1), average revenue per user (ARPU), net subscription income, total expenses, and treasury investments.
+   - Each metric is accompanied by its respective values for fiscal year 2023 (FY2023) and fiscal year 2024 (FY2024), along with the percentage change or growth rate where applicable.
+
+4. **Text Present in the Figure:**
+   - "Net operating income 2.4×"
+   - "FY2023 £214.5m"
+   - "FY2024 £514.4m"
+   - "Gross lending +84%"
+   - "£1.4bn FY2024"
+   - "£0.76bn FY2023"
+   - "Common Equity Tier 1 capital (CET1) (unaudited) 55%"
+   - "54% FY2023"
+   - "Average revenue per user (ARPU)"
+   - "Across personal customers +29%"
+   - "Across business customers +24%"
+   - "Net subscription income +41%"
+   - "FY2023 £19.5m"
+   - "FY2024 £27.4m"
+   - "Total expenses +51%"
+   - "£499.0m FY2024"
+   - "£330.9m FY2023"
+   - "Treasury investments +33%"
+   - "£3.6bn FY2024"
+   - "£2.7bn FY2023"
+
+5. **Context or Setting:**
+   - The infographic appears to be a summary of financial performance metrics for a company, likely presented in an annual report, investor presentation, or a similar financial document.
+
+6. **Overall Theme or Message:**
+   - The overall theme of the infographic is to convey the company's financial growth and performance improvements from FY2023 to FY2024 across various key metrics.
+
+7. **Other Relevant Details or Observations:**
+   - The use of contrasting colors helps differentiate between different metrics and makes the data easy to read.
+   - The infographic highlights significant growth in net operating income, gross lending, ARPU, net subscription income, total expenses, and treasury investments.
+   - The Common Equity Tier 1 capital ratio (CET1) shows a slight increase from 54% to 55%.

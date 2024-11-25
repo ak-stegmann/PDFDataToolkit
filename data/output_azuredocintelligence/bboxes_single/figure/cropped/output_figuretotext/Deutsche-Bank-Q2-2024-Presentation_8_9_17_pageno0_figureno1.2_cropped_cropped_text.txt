@@ -1,0 +1,59 @@
+### 1. Type of Visual Representation
+The figure is a chart.
+
+### 2. Data Table in Markdown
+
+```markdown
+| Category          | Q2 2023 | Q2 2024 | Δ vs. Q2 2023 |
+|-------------------|---------|---------|---------------|
+| Corporate Bank    | 1.9     | 1.9     | (1%)          |
+| Investment Bank   | 2.4     | 2.6     | +10%          |
+| Private Bank      | 2.4     | 2.3     | (3%)          |
+| Asset Management  | 0.6     | 0.7     | +7%           |
+| C&O               | 0.1     | 0.1     |               |
+| **Total**         | **7.4** | **7.6** | **+2%**       |
+```
+
+### 3. Detailed Description of the Figure Content
+The figure is a chart comparing the financial figures for Q2 2023 and Q2 2024 across different banking sectors: Corporate Bank, Investment Bank, Private Bank, Asset Management, and C&O. The total figures for each quarter are provided at the top, with a percentage change indicated. Each banking sector has its own segment in the stacked bar chart, showing specific values for Q2 2023 and Q2 2024. The percentage changes for each sector are also indicated next to the Q2 2024 values.
+
+### 4. Text Present in the Figure
+- "+2%"
+- "7.4" (Q2 2023 total)
+- "7.6" (Q2 2024 total)
+- "Corporate Bank"
+- "Investment Bank"
+- "Private Bank"
+- "Asset Management"
+- "C&O"
+- "Q2 2023"
+- "Q2 2024"
+- "1.9"
+- "2.4"
+- "2.4"
+- "0.6"
+- "0.1"
+- "1.9"
+- "2.6"
+- "2.3"
+- "0.7"
+- "0.1"
+- "Δ vs. Q2 2023"
+- "(1%)"
+- "+10%"
+- "(3%)"
+- "+7%"
+
+### 5. Context or Setting of the Figure
+The chart appears to be part of a financial report or presentation, comparing the performance of various banking sectors between Q2 2023 and Q2 2024. This comparison is likely used to analyze growth, decline, and overall financial health across these sectors.
+
+### 6. Overall Theme or Message Conveyed by the Figure
+The overall theme of the figure is to show the performance changes in various banking sectors over one year, highlighting the areas of growth and decline. The chart shows a slight overall increase in total figures from Q2 2023 to Q2 2024 by 2%.
+
+### 7. Other Relevant Details or Observations
+- The Corporate Bank sector remained constant with no change in its values.
+- The Investment Bank sector saw the highest growth rate of 10%.
+- The Private Bank sector experienced a decline of 3%.
+- Asset Management also showed growth with a 7% increase.
+- The C&O sector's values remained unchanged.
+- The total increase of 2% is relatively modest, indicating a small overall growth in the combined sectors.

@@ -1,0 +1,38 @@
+1. The figure is a bar chart.
+
+2. The table in markdown representing the data in the chart:
+
+   | Year | Value |
+   |------|-------|
+   | 2022 | 300   |
+   | 2023 | 450   |
+   | 2024 | 675   |
+   | 2025 |       |
+   | 2026 |       |
+
+3. Detailed description of the figure content:
+   - The figure is a bar chart showing values for the years 2022, 2023, 2024, 2025, and 2026.
+   - The values for the years 2022, 2023, and 2024 are explicitly labeled as 300, 450, and 675 respectively.
+   - The bars for the years 2025 and 2026 are present but not labeled with specific values.
+   - An arrow pointing upwards with the text "+50% p.a." indicates a growth rate of 50% per annum.
+
+4. Text present in the figure:
+   - "+50% p.a."
+   - "300"
+   - "450"
+   - "675"
+   - "2022"
+   - "2023"
+   - "2024"
+   - "2025"
+   - "2026"
+
+5. Context or setting of the figure:
+   - The figure appears to be showing the growth of a certain metric over the years 2022 to 2026, with a specified annual growth rate of 50%.
+
+6. The overall theme or message conveyed by the figure:
+   - The figure aims to illustrate the projected growth of a value or metric at a rate of 50% per year from 2022 to 2026.
+
+7. Other relevant details or observations:
+   - The growth rate of 50% per annum is consistent with the values shown for the years 2022, 2023, and 2024. If this trend continues, the values for 2025 and 2026 should be around 1012.5 and 1518.75, respectively.
+   - The bars for 2025 and 2026 are shown with a gradient, possibly indicating future projections or estimations.

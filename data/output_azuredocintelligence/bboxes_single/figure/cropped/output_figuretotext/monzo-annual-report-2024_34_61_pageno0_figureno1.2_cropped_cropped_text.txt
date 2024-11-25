@@ -1,0 +1,42 @@
+### 1. Type of Visual Representation
+The figure is a chart, specifically a donut chart.
+
+### 2. Table Representation of the Data in the Chart
+```markdown
+| Category             | Color       |
+|----------------------|-------------|
+| Goods & services     | Cyan        |
+| Marketing            | Pink        |
+| Cloud                | Dark Teal   |
+| Colleagues           | Light Mint  |
+| Payment processing   | Dark Blue   |
+| Products             | Light Pink  |
+| Travel               | Teal        |
+| Offices & waste      | Light Pink  |
+```
+
+### 3. Detailed Description of the Figure Content
+The figure is a donut chart representing FY2023 emissions on a market-based approach. The chart is segmented into different categories, each represented by a distinct color. The categories include Goods & Services, Marketing, Cloud, Colleagues, Payment Processing, Products, Travel, and Offices & Waste. Each segment of the donut chart corresponds to the proportion of emissions attributed to each category.
+
+### 4. Text Present in the Figure
+- "FY2023 Emissions market-based"
+- "Goods & services"
+- "Marketing"
+- "Cloud"
+- "Colleagues"
+- "Payment processing"
+- "Products"
+- "Travel"
+- "Offices & waste"
+
+### 5. Context or Setting of the Figure
+The context of the figure is likely an environmental or sustainability report focusing on emissions for the fiscal year 2023. The chart breaks down the emissions based on different operational activities or categories within an organization.
+
+### 6. Overall Theme or Message Conveyed by the Figure
+The overall theme of the figure is to present a clear breakdown of the sources of market-based emissions for the fiscal year 2023. It aims to show the distribution and proportion of emissions across various categories within an organization, highlighting areas that contribute most to emissions.
+
+### 7. Other Relevant Details or Observations
+- The largest segment of the donut chart appears to be "Goods & Services" indicated by the cyan color, suggesting it is the major contributor to the emissions.
+- The smallest segments include "Payment processing" and "Offices & waste" indicated by dark blue and light pink colors respectively.
+- The use of colors helps in quickly distinguishing between the different categories.
+- The chart does not provide specific numerical values or percentages for each category, focusing instead on a visual representation of their relative sizes.

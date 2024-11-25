@@ -1,0 +1,50 @@
+1. The figure is a chart, specifically a waterfall chart.
+
+2. Here is the table in markdown representing the data in the chart:
+
+```markdown
+| Category                     | Value  |
+|------------------------------|--------|
+| Q2 2023 ex-bank levies       | 4,945  |
+| Compensation and benefits    | 172    |
+| FX impact                    | 7      |
+| Information technology       | 4      |
+| Professional services        | -32    |
+| Other                        | 16     |
+| Q2 2024 ex-bank levies       | 5,035  |
+| Bank levies                  | 7      |
+| Q2 2024                      | 5,042  |
+```
+
+3. The figure is a waterfall chart that depicts the changes in expenses from Q2 2023 (excluding bank levies) to Q2 2024 (including bank levies). Each bar represents a different category of expenses, showing positive or negative impacts that contribute to the overall change. The categories include Compensation and benefits, FX impact, Information technology, Professional services, and Other.
+
+4. The text present in the figure includes:
+   - "Q2 2023 ex-bank levies"
+   - "Q2 2024 ex-bank levies"
+   - "Q2 2024"
+   - "Compensation and benefits¹"
+   - "FX impact"
+   - "Information technology"
+   - "Professional services"
+   - "Other"
+   - "+2%"
+   - "4,945"
+   - "5,035"
+   - "5,042"
+   - "172"
+   - "7"
+   - "4"
+   - "(32)"
+   - "1"
+   - "(50)"
+   - "4"
+
+5. The context of the figure is financial reporting, likely within a corporate setting, where it is important to understand the changes in expenses over time. It provides a detailed breakdown of how different factors and categories have contributed to the overall expenses from Q2 2023 to Q2 2024.
+
+6. The overall theme or message conveyed by the figure is that there has been an increase in expenses from Q2 2023 to Q2 2024, driven by specific categories such as Compensation and benefits, Information technology, and Other, while Professional services saw a decrease. The total expenses increased by 2%.
+
+7. Additional relevant details or observations:
+   - The chart effectively uses color to distinguish between different quarters and categories.
+   - The "+2%" annotation highlights the overall percentage increase in expenses.
+   - The use of brackets around certain numbers indicates a negative impact (decrease in expenses) in those categories.
+   - The inclusion of FX impact suggests that foreign exchange rates have had a minor influence on the expenses.

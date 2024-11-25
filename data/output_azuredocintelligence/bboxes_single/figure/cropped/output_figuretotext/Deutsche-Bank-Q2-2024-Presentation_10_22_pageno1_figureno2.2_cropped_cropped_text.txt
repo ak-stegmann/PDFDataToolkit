@@ -1,0 +1,43 @@
+### Analysis of the Figure
+
+1. **Type of Visual Representation:**
+   - The figure is a chart.
+
+2. **Data Table Representation in Markdown:**
+
+   ```markdown
+   | Category                       | Amount      |
+   |-------------------------------|-------------|
+   | Original Distribution Target  | €8bn        |
+   | ~€3.2bn                       | €3.2bn      |
+   | ~€1.4bn                       | €1.4bn      |
+   | Upside Potential              | Unspecified |
+   ```
+
+3. **Detailed Description of the Figure Content:**
+   - The chart is a vertical stacked bar chart illustrating the anticipated cumulative payout over certain fiscal years. The chart is divided into different segments:
+     - The bottom segment is labeled as "~€3.2bn" and is colored in dark blue.
+     - The next segment above it is labeled as "~€1.4bn" and is colored in medium blue.
+     - Above this is a lighter blue segment, and the top-most segment is shaded even lighter, almost white, representing "Upside potential".
+   - The combined total of the labeled segments (dark blue and medium blue) sums up to €4.6bn.
+   - There is a side label indicating that the original distribution target was €8bn.
+
+4. **Text Present in the Figure:**
+   - "€8bn original distribution target"
+   - "~€3.2bn"
+   - "~€1.4bn"
+   - "Upside potential"
+   - "Anticipated cumulative payout for FY 2021 - 2025, paid in 2022-2026"
+
+5. **Context or Setting of the Figure:**
+   - The chart appears to be presenting financial data, specifically the anticipated cumulative payout over a series of fiscal years. It is likely part of a financial report, presentation, or analysis aimed at stakeholders or investors.
+
+6. **Overall Theme or Message Conveyed by the Figure:**
+   - The main message of the figure is to present the anticipated cumulative payout for fiscal years 2021 to 2025, which will be paid out in the years 2022 to 2026. It shows the original distribution target of €8bn and breaks down the payout into specific segments, highlighting the potential for additional upside.
+
+7. **Other Relevant Details or Observations:**
+   - The chart uses color to differentiate between different payout segments and potential upside.
+   - The information is likely aimed at conveying the company's financial strategy and expectations to its stakeholders, emphasizing both the achieved payouts and the potential for additional gains.
+   - The unspecified amount in the "Upside potential" segment suggests there is room for further financial growth beyond the already quantified segments.
+
+Overall, the chart effectively communicates the anticipated financial payouts and the possibility of exceeding the original targets, providing a clear visual representation of the data.

@@ -1,0 +1,40 @@
+1. The figure is a bar chart.
+
+2. The table in markdown representing the data in the chart is as follows:
+
+```markdown
+| Quarter  | Key Banking Book Segments and Other Funding | Accounting Asymmetry Driven | Net Interest Margin |
+|----------|---------------------------------------------|-----------------------------|---------------------|
+| Q2 2023  | 3.3                                         | 0.3                         | 1.5%                |
+| Q3 2023  | 3.2                                         | 0.1                         | 1.4%                |
+| Q4 2023  | 3.3                                         | -0.1                        | 1.3%                |
+| Q1 2024  | 3.3                                         | -0.2                        | 1.3%                |
+| Q2 2024  | 3.4                                         | -0.3                        | 1.2%                |
+```
+
+3. Detailed description of the figure content:
+   - The figure is a bar chart displaying the components of net interest margin across five quarters: Q2 2023 to Q2 2024.
+   - Each bar is divided into two segments: "Key banking book segments and other funding" (dark blue) and "Accounting asymmetry driven" (light blue).
+   - The net interest margin percentage is displayed above each bar.
+   - The light blue segment represents positive or negative contributions due to accounting asymmetry.
+   - The dark blue segment remains relatively constant across the quarters, while the light blue segment shows a decreasing trend.
+
+4. Text present in the figure:
+   - "1.5%", "1.4%", "1.3%", "1.3%", "1.2%" above the bars.
+   - "3.6", "3.3", "3.2", "3.1", "3.0" on top of the bars.
+   - "3.3", "3.2", "3.3", "3.3", "3.4" on the dark blue segments.
+   - "0.3", "0.1", "-0.1", "-0.2", "-0.3" on the light blue segments.
+   - "Q2 2023", "Q3 2023", "Q4 2023", "Q1 2024", "Q2 2024" below the bars.
+   - A legend at the bottom with the text: "Key banking book segments and other funding", "Accounting asymmetry driven", "Net interest margin".
+
+5. Context or setting of the figure:
+   - The figure appears to be part of a financial report or presentation, likely from a banking or financial institution, illustrating the components of net interest margin over a specified period.
+
+6. Overall theme or message conveyed by the figure:
+   - The figure conveys the trend of net interest margin over time, highlighting the impact of key banking book segments and accounting asymmetry on the overall margin. It shows a slight decrease in the net interest margin percentage from Q2 2023 to Q2 2024.
+
+7. Other relevant details or observations:
+   - The dark blue segment, representing key banking book segments and other funding, shows a gradual increase from Q3 2023 onwards.
+   - The light blue segment, representing accounting asymmetry, shifts from a positive to a negative contribution starting from Q4 2023.
+   - The net interest margin percentage decreases steadily over the observed period.
+

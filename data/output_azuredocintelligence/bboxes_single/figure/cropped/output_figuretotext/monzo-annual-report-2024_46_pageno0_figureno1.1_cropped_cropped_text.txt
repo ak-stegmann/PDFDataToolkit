@@ -1,0 +1,56 @@
+1. **Type of Visual Representation:**
+   The figure is a diagram.
+
+2. **Table Representation:**
+   Since the figure is a diagram and not a chart or graph, a table representation is not applicable.
+
+3. **Detailed Description:**
+   The diagram represents a framework for risk management and its integration into business processes. It starts with "Mission & Values" and progresses through various stages, including "Business Model & Business Plan," "Risk Appetite," "Risk Strategy," "Control Environment," and "Risk & Control Reporting," ultimately leading to "Better Business Decisions." Below these stages, there are three foundational elements: "Key Risks," "Risk Governance," and "Three Lines of Defence."
+
+4. **Text Present in the Figure:**
+
+   - **Main Stages:**
+     - Mission & Values
+     - Business Model & Business Plan
+     - Risk Appetite
+       - Risk Capacity
+       - Attitude to Risk
+       - Risk Appetite Metrics
+       - Reporting & Escalation
+     - Risk Strategy
+       - What we do to remain within Appetite
+     - Control Environment
+       - Identification & Assessment of Risks
+       - Policy & Control Definition
+       - Control Design and Operation
+     - Risk & Control Reporting
+       - Control Testing & Reporting
+       - Risk Management & Monitoring
+       - Stress-testing & Scenario Analysis
+     - Better Business Decisions
+
+   - **Foundational Elements:**
+     - Key Risks
+       - Principal Risks
+       - Risk Hierarchy
+       - Risk Taxonomy & Definitions
+     - Risk Governance
+       - Roles and responsibilities
+       - Governance Structure
+       - Effective oversight & challenge
+     - Three Lines of Defence
+       - 1LOD: Ownership
+       - 2LOD: Challenge & Oversight
+       - 3LOD: Independent Review
+
+5. **Context or Setting:**
+   This diagram is likely used in a corporate or organizational setting to illustrate the integration of risk management into business processes and decision-making. It serves as a guide for understanding how risk management principles are embedded within the organization to support better business outcomes.
+
+6. **Overall Theme or Message:**
+   The overall theme of the diagram is the importance of integrating risk management into every stage of business planning and operations to ensure informed decision-making and better business outcomes. It emphasizes the continuous process of identifying, assessing, managing, and reporting risks within an organization.
+
+7. **Other Relevant Details or Observations:**
+   - The diagram uses a flowchart format to show a sequential process.
+   - The foundational elements at the bottom (Key Risks, Risk Governance, and Three Lines of Defence) support the main stages of the risk management framework.
+   - The color-coding and layout help in distinguishing the different components and their relationships.
+   - The diagram can be useful for training, presentations, or strategic planning sessions to communicate the risk management framework within an organization.

@@ -166,3 +166,6 @@ notebooks/bm25s_index_animals/
 bm25s_index_animals/
 playground/
 dataretrieval.ipynb
+data/output_azuredocintelligence/bboxes_single/figure/bbox_monzo/
+data/output_azuredocintelligence/bboxes_single/table/bbox_monzo/
+

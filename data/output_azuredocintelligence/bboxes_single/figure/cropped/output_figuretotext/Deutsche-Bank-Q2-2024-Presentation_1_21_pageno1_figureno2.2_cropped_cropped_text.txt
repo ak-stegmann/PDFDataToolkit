@@ -1,0 +1,35 @@
+### 1. Type of Visual Representation
+The figure is a diagram.
+
+### 2. Table Representation (Not Applicable)
+The figure is not a chart or graph, so a table is not applicable.
+
+### 3. Detailed Description of the Figure Content
+The figure consists of three main sections, each containing a numerical target or metric for the year 2025, along with a brief explanation beneath each metric. The sections are presented in a horizontal layout from left to right. Each section has a dark blue rectangle at the top with white text, followed by a downward-pointing arrow and additional explanatory text.
+
+### 4. Text Present in the Figure
+**Left Section:**
+- "> 10%"
+- "Post-tax RoTE in 2025"
+- "Well-positioned to drive returns above cost of equity based on sustained operating leverage over the period"
+
+**Middle Section:**
+- "5.5-6.5%"
+- "Revenue CAGR 2021-2025"
+- "Increased revenue momentum supported by further balance sheet optimization and greater shift to capital-light businesses"
+
+**Right Section:**
+- "< 62.5%"
+- "Cost/income ratio in 2025"
+- "Reiterate CIR target, with continued focus on further structural cost reductions, via technology investments, process redesign and efficiencies in infrastructure"
+
+### 5. Context or Setting of the Figure
+The figure is likely part of a financial or strategic presentation by a company, highlighting key financial performance targets and strategic goals for the year 2025. The metrics focus on return on tangible equity (RoTE), revenue compound annual growth rate (CAGR), and cost/income ratio (CIR).
+
+### 6. Overall Theme or Message Conveyed by the Figure
+The overall theme of the figure is to communicate the company's financial targets and strategic initiatives aimed at improving financial performance by 2025. The specific goals include achieving a post-tax return on tangible equity (RoTE) greater than 10%, a revenue compound annual growth rate (CAGR) between 5.5% and 6.5%, and maintaining a cost/income ratio (CIR) below 62.5%.
+
+### 7. Other Relevant Details or Observations
+- The color scheme (dark blue and white) is professional and likely intended to convey trust and reliability.
+- The use of arrows and sections helps in clearly distinguishing each target and its corresponding explanation.
+- The explanations beneath each metric provide insight into the company's strategic approach to achieving these targets, including operating leverage, balance sheet optimization, and structural cost reductions.

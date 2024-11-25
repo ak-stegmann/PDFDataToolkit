@@ -1,0 +1,45 @@
+1. **Type of Visual Representation**:
+   - The figure is a chart, specifically a bar chart.
+
+2. **Data Table in Markdown**:
+
+   ```markdown
+   | Year | Value per Share (€) | Value |
+   |------|----------------------|-------|
+   | 2022 | 0.20                 | 406   |
+   | 2023 | 0.30                 | 610   |
+   | 2024 | 0.45                 | 883   |
+   | 2025 | 0.68                 | ~1,300|
+   | 2026 | -                    | -     |
+   ```
+
+3. **Detailed Description**:
+   - The figure is a bar chart showing the growth of a metric (likely financial) per share from 2022 to 2025, with a projection for 2026. The values per share are indicated in euros (€), and the total values are shown at the top of each bar.
+
+4. **Text Present in the Figure**:
+   - "+50% p.a."
+   - "Per share"
+   - "€ 0.20"
+   - "406"
+   - "2022"
+   - "€ 0.30"
+   - "610"
+   - "2023"
+   - "€ 0.45"
+   - "883"
+   - "2024"
+   - "€ 0.68"
+   - "~1,300"
+   - "2025"
+   - "2026"
+
+5. **Context or Setting**:
+   - The chart likely represents financial growth, possibly in terms of earnings, dividends, or another financial metric per share over time. The setting appears to be a forecast or projection scenario, as indicated by the arrow and the term "+50% p.a." suggesting an annual growth rate.
+
+6. **Overall Theme or Message**:
+   - The chart conveys a message of significant and steady growth in financial value per share from 2022 to 2025, with an expected continuation of this trend into 2026. The annual growth rate is highlighted at 50%.
+
+7. **Other Relevant Details or Observations**:
+   - The color scheme changes for the year 2026, indicating a future projection which might be less certain than the data for 2022-2025.
+   - The use of the term "p.a." suggests a financial context, typically used in reports or presentations to indicate annual growth rates. 
+   - The value for 2026 is not provided, which might suggest it is a target or an estimate rather than a calculated value.

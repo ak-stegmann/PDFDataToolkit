@@ -1,0 +1,77 @@
+### 1. Type of Visual Representation:
+The figure is a diagram.
+
+### 2. Table in Markdown Representing the Data:
+```markdown
+| Category                          | Metric                                | Value      |
+|-----------------------------------|---------------------------------------|------------|
+| Group Financials (25%)            | CET 1 Ratio                           | 13.7%      |
+|                                   | RoTE                                  | 7.4%       |
+|                                   | CIR                                   | 75.1%      |
+|                                   | Group Financials Achievement          | 70%        |
+| RTSR (15%)                        | TSR DB                                | 120.5%     |
+|                                   | Average TSR Peers                     | 131.6%     |
+|                                   | RTSR                                  | 91.6%      |
+|                                   | RTSR Achievement                      | 83%        |
+| ESG (20%)                         | Sust Financing/Investments            | 28%        |
+|                                   | Climate Risk Management               | 50%        |
+|                                   | Own Operations                        | 150%       |
+|                                   | Employee Feedback                     | 61%        |
+|                                   | Gender Diversity                      | 150%       |
+|                                   | Control Risk Management Grade         | 40%        |
+|                                   | Remediation Activities                | 75%        |
+|                                   | ESG Achievement                       | 71.32%     |
+| Individual Objectives & Behavior  | CEO                                   | 133.2%     |
+| (25%)                             | CFO                                   | 117.8%     |
+| Individual Balanced Scorecards &  | CEO                                   | 111%       |
+| Key Deliverables (15%)            | CFO                                   | 112%       |
+| LTA Achievement Level             | 2022                                  | 79.60%     |
+|                                   | 2023                                  | 77.53%     |
+| STA Achievement Level (after Cut) | 2022                                  | 127.54%    |
+|                                   | 2023                                  | 61.52% - 116.38%|
+```
+
+### 3. Detailed Description of the Figure Content:
+The figure is a structured diagram outlining the key performance indicators (KPIs) and their achievements for a financial institution. The diagram is divided into two main sections: Long-Term Award (LTA) and Short-Term Award (STA).
+
+- **LTA (60%)** includes:
+  - Group Financials (25%): Indicators are CET 1 Ratio, RoTE, and CIR.
+  - RTSR (15%): Indicators are TSR DB, Average TSR Peers, and RTSR.
+  - ESG (20%): Indicators are Environment (Sust Financing/Investments, Climate Risk Management, Own Operations), Social (Employee Feedback, Gender Diversity), and Governance (Control Risk Management Grade, Remediation Activities).
+
+- **STA (40%)** includes:
+  - Individual Objectives & Behavior (25%): Focus on personal and divisional objectives, leadership behavior.
+  - Individual Balanced Scorecards & Key Deliverables (15%): Focus on steering and control of KPIs and key deliverables.
+
+Each section presents the achievement levels for different metrics and overall performance percentages.
+
+### 4. Text Present in the Figure:
+- Group Financials 25%
+- CET 1 Ratio >=13.1% 13.7%
+- RoTE >=8% 7.4%
+- CIR <=70% 75.1%
+- Group Financials Achievement 70%
+- RTSR 15%
+- TSR DB 120.5%
+- Average TSR Peers 131.6%
+- RTSR 91.6%
+- RTSR Achievement 83%
+- ESG 20%
+- Sust Financing/Investments 28%
+- Climate Risk Management 50%
+- Own Operations 150%
+- Employee Feedback 61%
+- Gender Diversity 150%
+- Control Risk Management Grade 40%
+- Remediation Activities 75%
+- ESG Achievement 71.32%
+- LTA Achievement Level 77.53% vs. 79.60% YE 22
+- Short-Term Award (STA) 40%
+- Individual Objectives & Behavior' objective Personal & divisional objectives: ~3-4 key area of focus & Bank’s key values & beliefs Leadership behavior
+- 106% - 133.2% CEO 133.2% CFO 117.8%
+- Individual Balanced Scorecards & Key Deliverables Appropriate tool for steering and control KPIs & Key Deliverables
+- 94% - 121% CEO 111% CFO 112%
+- STA Achievement Level (after Cut) 61.52% - 116.38% vs. 105.69% - 127.54% YE22
+
+### 5. Context or Setting of the Figure:
+The figure appears to be part of a financial report or presentation, likely used to summarize
